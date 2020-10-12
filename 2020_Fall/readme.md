@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Esteves, Thais
 
-- [ ] Gontijo Bisinoto, Luisa
+- [x] Gontijo Bisinoto, Luisa 💥
 
 - [ ] Guillen, Geo
 
@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Valerie
 
-- [x ] Jenkins, Michael 🇬🇧
+- [ ] Jenkins, Michael
 
 - [ ] Kato, Ryosuke
 
